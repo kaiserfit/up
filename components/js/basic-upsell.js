@@ -90,7 +90,7 @@ $( document ).ready(function() {
        u4ia();
         break;
           case "u4":
-       window.location.href="/thank-you.html";
+       window.location.href="thank-you.html";
         break;
       default:
         console.log("journey stop");
@@ -219,10 +219,10 @@ $( document ).ready(function() {
       $("#ldr").removeClass("glyphicon-alert");
       $("#ldr").addClass("glyphicon-ok");
     
-			window.location.href="/thank-you.html";
+			window.location.href="thank-you.html";
     }, 
       error: function(data) {
-      	window.location.href="/thank-you.html";
+      	window.location.href="thank-you.html";
       }
        });
  		});
@@ -375,7 +375,7 @@ $( document ).ready(function() {
            u4ia();
       }
         if (track === "U4" || track === "U4KFC"){
-           window.location.href = "/thank-you.html";
+           window.location.href = "thank-you.html";
       }
         
     },
@@ -399,7 +399,7 @@ $( document ).ready(function() {
     			u4ia();
      }
        if (track === "U4" || track === "U4KFC"){
-    			window.location.href = "/thank-you.html";
+    			window.location.href = "thank-you.html";
      }
      }
       }); //end ajax

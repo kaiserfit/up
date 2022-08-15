@@ -138,7 +138,7 @@ case "u3":
 window.location.href="/u4-biotics";
 break;
   case "u4":
-window.location.href="/thankyou-page-stripe";
+window.location.href="thankyou-page-stripe";
 break;
 default:
 console.log("journey stop");
@@ -257,10 +257,10 @@ integro(addonid);
 $("#ldr").removeClass("glyphicon-alert");
 $("#ldr").addClass("glyphicon-ok");
 
-    window.location.href="/thankyou-page-stripe";
+    window.location.href="thankyou-page-stripe";
 }, 
 error: function(data) {
-  window.location.href="/thankyou-page-stripe";
+  window.location.href="thankyou-page-stripe";
 }
 });
  });
@@ -401,7 +401,7 @@ if (track === "U1D2"){
 }
 
  if (track === "U1D3"){
-window.location.href="/thank-you.html";
+window.location.href="thank-you.html";
 }
 if (track === "U2"){
 window.location.href="/u3-collagen";
@@ -410,7 +410,7 @@ if (track === "U3"){
 window.location.href="/u4-biotics";
 }
 if (track === "U4"){
-window.location.href="/thank-you.html";
+window.location.href="thank-you.html";
 }
 
 
@@ -427,10 +427,10 @@ if (track === "U1D2"){
     window.location.href="qf-ds-3.html";
 }
 if (track === "U1D3"){
-window.location.href="/thankyou-page-stripe";
+window.location.href="thankyou-page-stripe";
 }
  if (track === "U1D3"){
-window.location.href="/thankyou-page-stripe";
+window.location.href="thankyou-page-stripe";
 }
 if (track === "U2"){
 window.location.href="/u3-collagen";
@@ -439,7 +439,7 @@ if (track === "U3"){
 window.location.href="/u4-biotics";
 }
 if (track === "U4"){
-window.location.href="/thankyou-page-stripe";
+window.location.href="thankyou-page-stripe";
 }
 }
 });
@@ -515,7 +515,7 @@ case "U3D1" :
   u4ia();
   break;
 case "U4D1":
-  window.location.href = "/thankyou-page-stripe";
+  window.location.href = "thankyou-page-stripe";
       break;
 default: 
   break;
@@ -576,7 +576,7 @@ case "U3D1" :
   u4ia();
   break;
 case "U4D1":
-  window.location.href = "/thankyou-page-stripe";
+  window.location.href = "thankyou-page-stripe";
       break;
 default: 
   break;
