@@ -122,25 +122,25 @@ const event_id = 'event-'+hashVal+'-'+timeStamp; //unique ID of visitor
           case "1":
             setTimeout(function(){
 
-              window.location.href="/queen-night-burner-3.html";
+              window.location.href="queen-night-burner-3.html";
             }, 300);
             break;
           case "3":
             setTimeout(function(){
 
-              window.location.href="/queen-night-burner-6.html";
+              window.location.href="queen-night-burner-6.html";
             }, 300);
             break;
              case "6":
               setTimeout(function(){
 
-                window.location.href="/queen-night-burner-12.html";
+                window.location.href="queen-night-burner-12.html";
               }, 300);
             break;
           default:
             setTimeout(function(){
 
-              window.location.href="/queen-night-burner-3.html";
+              window.location.href="queen-night-burner-3.html";
             }, 300);
             // window.location.href="/u2-fatlossstacks-stripe";
             break;
@@ -243,7 +243,7 @@ const event_id = 'event-'+hashVal+'-'+timeStamp; //unique ID of visitor
   	
   $('.skip').click(function(){
 
-    window.location.href="/qf-ds-1.html";
+    window.location.href="qf-ds-1.html";
         
        }); //u1skip
 
