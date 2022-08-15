@@ -31,17 +31,17 @@ function findNextPage(bot){
   	
   	switch (bot) {
       case 1:
-        window.location.href="/queen-formula-3.html";
+        window.location.href="queen-formula-3.html";
         break;
       case 3 :
-        window.location.href="/queen-formula-6.html";
+        window.location.href="queen-formula-6.html";
         break;
        case 6 :
-        window.location.href="/queen-formula-12.html";
+        window.location.href="queen-formula-12.html";
         break;
         
       default:
-        window.location.href="/queen-formula-3.html";
+        window.location.href="queen-formula-3.html";
         break;
     }
   

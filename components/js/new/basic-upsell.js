@@ -97,13 +97,13 @@ function u4ia(){
 if (obx==1){ //orderbump ticked
 //window.location.href="/u4-forever-fat-loss-stripe";
 if (botqty === "1") {
-  window.location.href="/queen-biotics-3";
+  window.location.href="queen-biotics-3";
 }
 if (botqty === "3") {
-   window.location.href="/queen-biotics-6";
+   window.location.href="queen-biotics-6";
 }
 if (botqty === "6") {
-   window.location.href="/queen-biotics-12";
+   window.location.href="queen-biotics-12";
 }
 } else if (obx==0) {
 if (obid === "19"){
@@ -394,10 +394,10 @@ success: function(data) {
 console.log(data);
 
 if (track === "U1D1") { 
-    window.location.href="/qf-ds-2.html";    
+    window.location.href="qf-ds-2.html";    
 }
 if (track === "U1D2"){
-    window.location.href="/qf-ds-3.html";
+    window.location.href="qf-ds-3.html";
 }
 
  if (track === "U1D3"){
@@ -421,10 +421,10 @@ error: function(data){
 console.log(data);
 
 if (track === "U1D1") { 
-    window.location.href="/qf-ds-2.html";    
+    window.location.href="qf-ds-2.html";    
 }
 if (track === "U1D2"){
-    window.location.href="/qf-ds-3.html";
+    window.location.href="qf-ds-3.html";
 }
 if (track === "U1D3"){
 window.location.href="/thankyou-page-stripe";
@@ -469,46 +469,46 @@ console.log("success");
 switch (track) {
 case "U2": 
   if (botqty === "1") {
-  window.location.href="/queen-night-burner-downsell-3";
+  window.location.href="queen-night-burner-downsell-3";
 }
 if (botqty === "3") {
-   window.location.href="/queen-night-burner-downsell-6";
+   window.location.href="queen-night-burner-downsell-6";
 }
 if (botqty === "6") {
-   window.location.href="/queen-night-burner-downsell-12";
+   window.location.href="queen-night-burner-downsell-12";
 }
       break;
    case "U3": 
   if (botqty === "1") {
-  window.location.href="/queen-pure-collagen-downsell-3";
+  window.location.href="queen-pure-collagen-downsell-3";
 }
 if (botqty === "3") {
-   window.location.href="/queen-pure-collagen-downsell-6";
+   window.location.href="queen-pure-collagen-downsell-6";
 }
 if (botqty === "6") {
-   window.location.href="/queen-pure-collagen-downsell-12";
+   window.location.href="queen-pure-collagen-downsell-12";
 }
       break;
   case "U4": 
   if (botqty === "1") {
-  window.location.href="/queen-biotics-downsell-3";
+  window.location.href="queen-biotics-downsell-3";
 }
 if (botqty === "3") {
-   window.location.href="/queen-biotics-downsell-6";
+   window.location.href="queen-biotics-downsell-6";
 }
 if (botqty === "6") {
-   window.location.href="/queen-biotics-downsell-12";
+   window.location.href="queen-biotics-downsell-12";
 }
       break;
   case "U2D1": 
 if (botqty === "1") {
-  window.location.href="/queen-pure-collagen-3";
+  window.location.href="queen-pure-collagen-3";
 }
 if (botqty === "3") {
-   window.location.href="/queen-pure-collagen-6";
+   window.location.href="queen-pure-collagen-6";
 }
 if (botqty === "6") {
-   window.location.href="/queen-pure-collagen-12";
+   window.location.href="queen-pure-collagen-12";
 }
       break;
 case "U3D1" :
@@ -530,46 +530,46 @@ console.log("fail");
 switch (track) {
 case "U2": 
   if (botqty === "1") {
-  window.location.href="/queen-night-burner-downsell-3";
+  window.location.href="queen-night-burner-downsell-3";
 }
 if (botqty === "3") {
-   window.location.href="/queen-night-burner-downsell-6";
+   window.location.href="queen-night-burner-downsell-6";
 }
 if (botqty === "6") {
-   window.location.href="/queen-night-burner-downsell-12";
+   window.location.href="queen-night-burner-downsell-12";
 }
       break;
    case "U3": 
   if (botqty === "1") {
-  window.location.href="/queen-pure-collagen-downsell-3";
+  window.location.href="queen-pure-collagen-downsell-3";
 }
 if (botqty === "3") {
-   window.location.href="/queen-pure-collagen-downsell-6";
+   window.location.href="queen-pure-collagen-downsell-6";
 }
 if (botqty === "6") {
-   window.location.href="/queen-pure-collagen-downsell-12";
+   window.location.href="queen-pure-collagen-downsell-12";
 }
       break;
   case "U4": 
   if (botqty === "1") {
-  window.location.href="/queen-biotics-downsell-3";
+  window.location.href="queen-biotics-downsell-3";
 }
 if (botqty === "3") {
-   window.location.href="/queen-biotics-downsell-6";
+   window.location.href="queen-biotics-downsell-6";
 }
 if (botqty === "6") {
-   window.location.href="/queen-biotics-downsell-12";
+   window.location.href="queen-biotics-downsell-12";
 }
       break;
   case "U2D1": 
 if (botqty === "1") {
-  window.location.href="/queen-pure-collagen-3";
+  window.location.href="queen-pure-collagen-3";
 }
 if (botqty === "3") {
-   window.location.href="/queen-pure-collagen-6";
+   window.location.href="queen-pure-collagen-6";
 }
 if (botqty === "6") {
-   window.location.href="/queen-pure-collagen-12";
+   window.location.href="queen-pure-collagen-12";
 }
       break;
 case "U3D1" :

@@ -81,7 +81,7 @@ $( document ).ready(function() {
         window.location.href="/upsell-3.html";
         break;
       case "d1":
-        window.location.href="/queen-night-burner-3.html";
+        window.location.href="queen-night-burner-3.html";
         break;
         case "d2":
         window.location.href="/upsell-3.html";
