@@ -180,6 +180,7 @@ const event_id = 'event-'+hashVal+'-'+timeStamp; //unique ID of visitor
 
         ttq.track('CompletePayment',{
           content_id: data.product,
+          content_type:'product',
           quantity: parseInt(bot),
           price: price,
           value: price,

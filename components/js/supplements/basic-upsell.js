@@ -265,6 +265,7 @@ const vsltest = 16;
 
         ttq.track('CompletePayment',{
           content_id: data.product,
+          content_type:'product',
           quantity: parseInt(bot),
           price: data.price,
           value: data.price,
@@ -433,6 +434,7 @@ const vsltest = 16;
 
         ttq.track('CompletePayment',{
           content_id: data.product,
+          content_type:'product',
           quantity: 3,
           price: data.price,
           value: data.price,
