@@ -19,7 +19,7 @@
     
         $.ajax({
         type: 'POST',
-        url: 'https://hook.integromat.com/rzwt665qate0d0bu5xhex9q7cr0lun7m',
+        url: 'https://hook.us1.make.com/aorjaog2ut3cu8o32yv0ih9mk543nguu',
         crossDomain: true,
         data: {'Event': action, 'fbc': fbc,'url': window.location.href, 'userAgent': navigator.userAgent, 'ipAddress':ip},
         dataType: 'json'
